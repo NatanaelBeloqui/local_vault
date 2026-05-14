@@ -110,3 +110,5 @@ provider: ^6.1.0             # Gerenciamento de estado (opcional)
 hive_generator: ^2.0.1       # Geração de TypeAdapters
 build_runner: ^2.4.0         # Runner de geração de código
 ```
+
+<img width="500" height="944" alt="image" src="https://github.com/user-attachments/assets/393dbfb3-0329-4fb6-9d3d-7b8f64c20eea" />
