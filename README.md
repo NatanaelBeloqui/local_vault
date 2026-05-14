@@ -1,7 +1,9 @@
 # LocalVault
 
 **Aluno:** Natanael Beloqui de Barros
+
 **Curso:** Desenvolvimento Mobile — SENAC
+
 **Aula:** 13 — Armazenamento Local
 
 Aplicativo Flutter que demonstra as três principais estratégias de persistência local: SharedPreferences, Hive e flutter_secure_storage, aplicando boas práticas de privacidade e os princípios da LGPD.
